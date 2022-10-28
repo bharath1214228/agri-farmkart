@@ -1,0 +1,37 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 27 Oct 2022 20:08:51 at https://farmkart.ng/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://farmkart.ng/ -O1 "C:\Users\dell\Desktop\barath\agri4" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:12:09	Warning: 	Link https://farmkart.ng/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+20:12:16	Error: 	"Not Found" (404) at link https://farmkart.ng/wp-content/plugins/simple-job-board/public/images/ui-icons_ffffff_256x240.png (from https://farmkart.ng/wp-content/plugins/simple-job-board/public/css/jquery-ui.css?ver=1.12.1)
+20:12:16	Error: 	"Not Found" (404) at link https://farmkart.ng/wp-content/plugins/simple-job-board/public/images/ui-icons_777620_256x240.png (from https://farmkart.ng/wp-content/plugins/simple-job-board/public/css/jquery-ui.css?ver=1.12.1)
+20:12:17	Error: 	"Not Found" (404) at link https://farmkart.ng/wp-content/plugins/simple-job-board/public/images/ui-icons_cc0000_256x240.png (from https://farmkart.ng/wp-content/plugins/simple-job-board/public/css/jquery-ui.css?ver=1.12.1)
+20:12:17	Error: 	"Not Found" (404) at link https://farmkart.ng/wp-content/plugins/simple-job-board/public/images/ui-icons_777777_256x240.png (from https://farmkart.ng/wp-content/plugins/simple-job-board/public/css/jquery-ui.css?ver=1.12.1)
+20:12:20	Warning: 	Moved Permanently for https://farmkart.ng/?p=54
+20:12:20	Warning: 	File has moved from https://farmkart.ng/?p=54 to https://farmkart.ng/about/
+20:12:21	Warning: 	Moved Permanently for https://farmkart.ng/?p=388
+20:12:21	Warning: 	File has moved from https://farmkart.ng/?p=388 to https://farmkart.ng/services/
+20:12:22	Warning: 	Moved Permanently for https://farmkart.ng/?p=1993
+20:12:22	Warning: 	File has moved from https://farmkart.ng/?p=1993 to https://farmkart.ng/impacts/
+20:12:22	Warning: 	Moved Permanently for https://farmkart.ng/?p=2030
+20:12:22	Warning: 	File has moved from https://farmkart.ng/?p=2030 to https://farmkart.ng/blog/
+20:12:46	Warning: 	Moved Permanently for https://farmkart.ng/?p=56
+20:12:46	Warning: 	File has moved from https://farmkart.ng/?p=56 to https://farmkart.ng/contact/
+20:12:48	Warning: 	Moved Permanently for https://farmkart.ng/?p=9
+20:12:48	Warning: 	File has moved from https://farmkart.ng/?p=9 to https://farmkart.ng/my-account/
+20:12:51	Warning: 	Moved Permanently for https://farmkart.ng/?p=365
+20:12:51	Warning: 	File has moved from https://farmkart.ng/?p=365 to https://farmkart.ng/privacy-terms/
+20:12:51	Warning: 	Moved Permanently for https://farmkart.ng/?p=502
+20:12:51	Warning: 	File has moved from https://farmkart.ng/?p=502 to https://farmkart.ng/how-to-invest-in-farmkart-fc10509488f6/
+20:12:56	Warning: 	Moved Permanently for https://farmkart.ng/?p=501
+20:12:56	Warning: 	File has moved from https://farmkart.ng/?p=501 to https://farmkart.ng/farmkart-the-past-the-future-a443d65712ed/
+20:12:58	Warning: 	Moved Permanently for https://farmkart.ng/?p=503
+20:12:58	Warning: 	File has moved from https://farmkart.ng/?p=503 to https://farmkart.ng/farmkart-2-0-c4771daff1d/
+20:13:00	Error: 	"Not Found" (404) at link https://farmkart.ng/wp-content/uploads/img/bg.jpg (from https://farmkart.ng/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1666881580)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 12 seconds : 286 links scanned, 270 files written (35539292 bytes overall) [17814789 bytes received at 70693 bytes/sec], 24195394 bytes transferred using HTTP compression in 217 files, ratio 23%, 22.0 requests per connection
+(5 errors, 21 warnings, 0 messages)

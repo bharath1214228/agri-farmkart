@@ -1,0 +1,125 @@
+/*
+	Theme Name:   Savoy Child
+	Theme URI:    http://themeforest.net/item/savoy-minimalist-ajax-woocommerce-theme/12537825
+	Description:  Savoy child theme
+	Author:       NordicMade
+	Author URI:   http://www.nordicmade.com
+	Template:     savoy
+	Version:      1.0
+*/
+
+
+/* Child theme CSS
+--------------------------------------------------------------- */
+
+
+
+#dashboard-stat > .col {
+    width: 48%;
+    padding: 30px;
+    background-color: #985a3f1a;
+}
+
+#dashboard-stat {
+    justify-content: space-between;
+    display: flex;
+    margin-bottom:60px;
+}
+
+div#dashboard-stat h4 {
+    margin-bottom: 15px;
+    font-weight: 600;
+}
+
+.woocommerce-MyAccount-orders th {
+    font-weight: 600;
+    font-size: 13px !important;
+    color: #282828;
+    padding-bottom: 5px !important;
+}
+
+body.woocommerce-account, body.woocommerce-page {
+    background: #e7f1eb;
+}
+
+td.woocommerce-orders-table__cell.woocommerce-orders-table__cell-order-number a {
+    font-weight: bold;
+}
+
+form.woocommerce-EditAccountForm.edit-account > fieldset {
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+form.woocommerce-EditAccountForm.edit-account > fieldset legend {
+    display:block;
+    font-size: 24px;
+}
+
+form.woocommerce-EditAccountForm.edit-account > fieldset p.woocommerce-form-row.form-row-wide { width:30%; }
+
+form.woocommerce-EditAccountForm.edit-account  > fieldset {
+    display: flex;
+    justify-content: space-between;
+}
+
+#post-552 > div > div > div.nm-MyAccount-dashboard > p:nth-child(1) {display:none;}
+
+
+td.woocommerce-orders-table__cell span.woocommerce-Price-amount.amount {display: flex;}
+
+ul.customer_details, .addresses, .order-again { display: none;}
+
+
+.woocommerce-MyAccount-orders tr td:last-child a {
+    font-size: 12px !important;
+    padding: 6px 10px;
+    float:right;
+}
+
+.nm-order-info {
+    color: #3d3d3d;
+    background: #985a3f1a;
+}
+.nm-order-info > mark {color: #3d3d3d !important;}
+
+
+li.product.status-publish.outofstock img { filter: grayscale(1); }
+
+body.woocommerce-shop, #nm-shop-products-overlay, #nm-shop {background-color: #e7f1eb !important;}
+
+.nm-shop-loop-product-wrap {
+    background: #fff;
+    box-shadow: 0px 7px 20px 0px rgb(17 121 56 / 10%);
+}
+
+.nm-shop-loop-details { padding: 5%; }
+
+h3.woocommerce-loop-product__title {
+    font-size: 18px !important;
+    font-weight: 700;
+    color: #333333;
+}
+
+#back-inv-btn { margin: 20px 0 0; }
+
+#back-inv-btn a { display:inline; padding: 8px 14px; }
+
+span.berocket_minmax { display: none; }
+
+
+
+td.woocommerce-orders-table__cell-order-status span {
+    padding:2px 7px;
+    border-radius:10px;
+    font-size:12px;
+    color:black;
+}
+
+tr.woocommerce-orders-table__row--status-running td.woocommerce-orders-table__cell-order-status span {
+    background:rgb(152 90 63 / 0.15);
+}
+
+tr.woocommerce-orders-table__row--status-completed td.woocommerce-orders-table__cell-order-status span {
+    background:rgb(15 121 55 / 0.15);
+}

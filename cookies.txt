@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+farmkart.ng	TRUE	/	FALSE	1999999999	PHPSESSID	50fec7bf00c968ae49a7649ab2d72c91
+farmkart.ng	TRUE	/	FALSE	1999999999	mailchimp_landing_site	https%3A%2F%2Ffarmkart.ng%2Fxmlrpc.php%3Frsd
+farmkart.ng	TRUE	/	FALSE	1999999999	SameSite	Strict
+farmkart.ng	TRUE	/	FALSE	1999999999	ywsl_wp_session	664b516e66552f26c6dade6c1c569624%7C%7C1666924907%7C%7C1666923107
+
